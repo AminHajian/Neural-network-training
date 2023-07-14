@@ -19,8 +19,11 @@ This repository contains the following files:
 <b>adaline.ipynb</b>: This file contains the implementation of the Adaline model. It includes functions for initializing the weights and bias, performing forward propagation, calculating the error, updating the weights and bias using gradient descent, and predicting the class labels.
 
 ![Alt text](adaline.png)
+
 (plot_line function (Show the dividing line between two classes) just work on 2d)
 
 <b>madaline.ipynb</b>: This file contains the implementation of the Madaline model. It includes functions for initializing the Adaline units, training the units using gradient descent, combining the outputs of the units, predicting the class labels, and evaluating the accuracy of the model.
+
 ![Alt text](madaline.png)
+
 (plot_line function (Show the dividing lines between two classes) just work on 2d)
